@@ -161,6 +161,10 @@
 		{
 			"Name": "DollarsMoCapLiveLink",
 			"Enabled": true
+		},
+		{
+			"Name": "Switchboard",
+			"Enabled": true
 		}
 	]
 }
